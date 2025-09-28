@@ -85,4 +85,4 @@ Frontend**: React (Vite), Redux Toolkit, React-Toastify
 Backend**: Node.js, Express
 
 
-Do you also want me to add a **nice preview section with screenshots or demo GIFs** to make the README stand out on GitHub?
+
