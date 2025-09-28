@@ -1,11 +1,14 @@
- 🛒 ShopVerto
+
+
+# 🛒 ShopVertu
 
 A minimal full-stack e-commerce web application built with **React (Vite)**, **Redux Toolkit**, **Node.js**, and **Express**.
 It allows users to browse products, add them to a cart, and simulate checkout.
 Includes toast notifications, skeleton loading, and error boundaries.
 
 ---
- 🚀 Features
+
+## 🚀 Features
 
 * **Frontend (React + Redux Toolkit)**
 
@@ -25,8 +28,9 @@ Includes toast notifications, skeleton loading, and error boundaries.
 
 ---
 
- 📂 Project Structure
+## 📂 Project Structure
 
+```
 shop-vertu/
 │
 ├── backend/
@@ -41,30 +45,36 @@ shop-vertu/
     │   ├── main.jsx
     │   └── index.css
     └── vite.config.js
+```
 
 ---
 
- 🛠️ Setup & Run Locally
+## 🛠️ Setup & Run Locally
 
-1. Clone the repository
+### 1. Clone the repository
 
+```bash
 git clone git@github.com:atharvninave18/verto-project.git
 cd verto-project
+```
 
-2. Backend Setup
+### 2. Backend Setup
 
+```bash
 cd backend
 npm install
 npm start
+```
 
 Backend runs on 👉 `http://localhost:5001`
 
-3. Frontend Setup
+### 3. Frontend Setup
 
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 
 Frontend runs on 👉 `http://localhost:5173`
 
@@ -79,10 +89,10 @@ Frontend runs on 👉 `http://localhost:5173`
 
 ---
 
- 👨‍💻 Tech Stack
+## 👨‍💻 Tech Stack
 
-Frontend**: React (Vite), Redux Toolkit, React-Toastify
-Backend**: Node.js, Express
+* **Frontend**: React (Vite), Redux Toolkit, React-Toastify
+* **Backend**: Node.js, Express
 
-
+---
 
